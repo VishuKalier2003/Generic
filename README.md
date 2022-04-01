@@ -1,0 +1,2 @@
+# Generic
+A Generic function
